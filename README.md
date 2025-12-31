@@ -9,6 +9,7 @@
 ## 🔗 프로젝트 링크
 - 🎮 **협업 Repository**: [ColorPicker Main](https://github.com/MinSeok0406/G1)
 - 🛠️ **맵 에디터**: [2D Map Structure Creator](https://ldj5098.github.io/2D_map_structure_creator/)
+<img src="sample.jpg" alt="맵 설계기" width="60%">
 
 ## 프로젝트 특징
 Unity2D 기반의 모바일 멀티플레이어 게임으로, 미니게임과 추리 요소를 결합한 소셜 게임입니다.
