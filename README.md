@@ -56,7 +56,7 @@ Unity2D 기반의 모바일 멀티플레이어 게임으로, 미니게임과 추
 - URL 쿼리스트링 방식으로 맵 데이터 공유 기능 추가
 - 즉각적인 수정 및 공유 가능
 
-<img src="맵 설계기/map_editor.png" alt="맵 설계기" width="60%">
+<img src="맵 설계기/2D_map_structure_creator.png" alt="맵 설계기" width="60%">
 
 ### 맵 설계기 링크
 🔗 [맵 설계기 바로가기](https://ldj5098.github.io/2D_map_structure_creator/)
